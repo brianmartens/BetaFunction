@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1455638162 source:c:\users\bmartens\desktop\betafunction\main.cpp
+	<iostream>
+	<fstream>
+	"bmath.h"
+
+1455638198 c:\users\bmartens\desktop\betafunction\bmath.h
+	"math.h"
+
+1455597932 source:c:\users\p00rl3n0\desktop\betafunction\main.cpp
+	<iostream>
+	<fstream>
+	"bmath.h"
+
+1455597996 c:\users\p00rl3n0\desktop\betafunction\bmath.h
+	"math.h"
+
